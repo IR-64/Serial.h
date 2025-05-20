@@ -1,5 +1,8 @@
 **********************************   README FILE   ***************************************
 
+Library untuk servo dynamixel
+
+
 Contact: Savage Electronics - Electronics For Everyone
   Autor:  Josue Alejandro Savage
   E-mail: savageelectronics@gmail.com 
